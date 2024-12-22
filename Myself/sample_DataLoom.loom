@@ -1,0 +1,614 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "260e7dbd-8cf8-4433-ba8b-1ab5f4551a76",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Name",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "493ad698-d9a8-4b94-be0f-8f341ac70e7d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Company",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "de9fa1a5-f323-441e-b92c-5e20aeca841d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Price",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "sum",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "7bcdf517-9ce7-41f0-be27-054381201d57",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "date",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Date",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "yyyymmdd",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "be49397f-0a0f-460d-a2d5-2c939d100122",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "★★★★★",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "16ed480e-076a-47dc-bacd-74da04bdb6ae",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Tags",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "f86674d7-9426-4db7-a00c-e71f5f8da1b0",
+            "content": "#mouse",
+            "color": "red"
+          },
+          {
+            "id": "e55c360c-a7c7-4ebe-9b5d-8864b905488c",
+            "content": "#Gadget",
+            "color": "gray"
+          },
+          {
+            "id": "afea4b7c-93e9-4185-97a7-6ea874d9c49f",
+            "content": "#PC",
+            "color": "gray"
+          },
+          {
+            "id": "b7999cd1-6ffe-4f0e-b174-d02bea8c67d0",
+            "content": "#HUAWEI",
+            "color": "yellow"
+          },
+          {
+            "id": "9e6f1786-afcc-4c99-8eea-ccf55f4787b9",
+            "content": "#Tablet",
+            "color": "green"
+          },
+          {
+            "id": "159bdde2-67e7-406e-81ef-c8d185262855",
+            "content": "#Keyboad",
+            "color": "purple"
+          },
+          {
+            "id": "587e59a3-8bf4-46f7-bdac-f7b7242508c1",
+            "content": "#Amazon",
+            "color": "orange"
+          },
+          {
+            "id": "51c52e8d-c075-4df2-b9e1-fa07fd3e146e",
+            "content": "#Phone",
+            "color": "brown"
+          },
+          {
+            "id": "939a24d1-2ad1-4b2a-9291-308454bb286d",
+            "content": "pho",
+            "color": "orange"
+          },
+          {
+            "id": "ddd4047e-555f-4ad2-83c9-de6e78aad91a",
+            "content": "#Monitor",
+            "color": "red"
+          },
+          {
+            "id": "a6a0e38e-1563-4ba7-a3cc-65176ad08616",
+            "content": "#Shoes",
+            "color": "orange"
+          },
+          {
+            "id": "53fbc94e-a2f8-42de-a15c-fb183da47818",
+            "content": "#Charge",
+            "color": "green"
+          },
+          {
+            "id": "a63d08e5-daba-4743-b71e-abec8a85042c",
+            "content": "#Watch",
+            "color": "purple"
+          },
+          {
+            "id": "6fba9d3a-7c6d-4b2b-9a55-5a70bc3fe5c3",
+            "content": "#Earphone",
+            "color": "gray"
+          },
+          {
+            "id": "ce0800ac-e411-4deb-980a-9bdbd3fa5b10",
+            "content": "#ペンタブ",
+            "color": "green"
+          },
+          {
+            "id": "348efd11-8d9a-4028-ac11-2746d9ce0b4b",
+            "content": "#電卓",
+            "color": "yellow"
+          },
+          {
+            "id": "6a040d36-8399-48cf-9f56-a6b58a54e5e5",
+            "content": "#Bottle",
+            "color": "gray"
+          },
+          {
+            "id": "76cb9b29-4188-4def-9136-7d40f05aaa2f",
+            "content": "#アブローラー",
+            "color": "pink"
+          },
+          {
+            "id": "375a40a8-9c06-4497-87c9-a76b0106f9cb",
+            "content": "#Battery",
+            "color": "brown"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "2283915b-9f8d-4419-83f8-bc981dc928cb",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "490px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Memo",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "e526741e-a081-47fd-ab2e-ca64f604ade1",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-12-14T16:02:36.590Z",
+        "lastEditedDateTime": "2024-12-14T16:23:56.000Z",
+        "cells": [
+          {
+            "id": "f9c418f8-fc8d-4aba-acbc-63c2cbf15798",
+            "columnId": "260e7dbd-8cf8-4433-ba8b-1ab5f4551a76",
+            "content": "MatePad 11",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f98284a5-b44f-4860-a0a5-8201a2d7a182",
+            "columnId": "493ad698-d9a8-4b94-be0f-8f341ac70e7d",
+            "content": "HUAWEI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "431f1e5d-a2fa-4ef1-8f90-f65be6ae160f",
+            "columnId": "de9fa1a5-f323-441e-b92c-5e20aeca841d",
+            "value": 40000,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f0f0b731-42f5-4c22-b042-f81335625240",
+            "columnId": "7bcdf517-9ce7-41f0-be27-054381201d57",
+            "dateTime": "2022-04-24T15:00:00.000Z",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "172c4e00-bf15-48b5-9dce-0886ba044ca4",
+            "columnId": "be49397f-0a0f-460d-a2d5-2c939d100122",
+            "value": 4,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "db71e8c5-d063-4370-be1c-3bc25df0523c",
+            "columnId": "16ed480e-076a-47dc-bacd-74da04bdb6ae",
+            "tagIds": [
+              "e55c360c-a7c7-4ebe-9b5d-8864b905488c",
+              "9e6f1786-afcc-4c99-8eea-ccf55f4787b9",
+              "587e59a3-8bf4-46f7-bdac-f7b7242508c1"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          },
+          {
+            "id": "e9866ed4-8c96-438e-bb16-c0af344cfcb0",
+            "columnId": "2283915b-9f8d-4419-83f8-bc981dc928cb",
+            "content": "スペック：6GB,128GB\nMedia Viewerとして有能．しかし，Googleと相性が悪い",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5f0a95cd-2443-4640-accc-ee64c62940a0",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-12-14T16:02:37.273Z",
+        "lastEditedDateTime": "2024-12-14T17:19:30.040Z",
+        "cells": [
+          {
+            "id": "92375c3c-0838-4cac-ae1d-cb32a4b06574",
+            "columnId": "260e7dbd-8cf8-4433-ba8b-1ab5f4551a76",
+            "content": "Reno 3A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "33328381-7386-4afd-9430-96bfd4b2d586",
+            "columnId": "493ad698-d9a8-4b94-be0f-8f341ac70e7d",
+            "content": "OPPO",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b324be5f-d80e-45f9-a11d-4f7a0657fd2f",
+            "columnId": "de9fa1a5-f323-441e-b92c-5e20aeca841d",
+            "value": 28900,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ebeca33f-afa2-492a-ba8e-f07746bc2e47",
+            "columnId": "7bcdf517-9ce7-41f0-be27-054381201d57",
+            "dateTime": "2021-03-19T15:00:00.000Z",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a01fb2cc-3df2-49ff-b4f6-601433e1990f",
+            "columnId": "be49397f-0a0f-460d-a2d5-2c939d100122",
+            "value": 3,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c0e80561-5741-4a92-ae72-50fc21123ccf",
+            "columnId": "16ed480e-076a-47dc-bacd-74da04bdb6ae",
+            "tagIds": [
+              "51c52e8d-c075-4df2-b9e1-fa07fd3e146e",
+              "587e59a3-8bf4-46f7-bdac-f7b7242508c1",
+              "e55c360c-a7c7-4ebe-9b5d-8864b905488c"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          },
+          {
+            "id": "ca634c60-c3c4-46e0-adf1-aa08a457a126",
+            "columnId": "2283915b-9f8d-4419-83f8-bc981dc928cb",
+            "content": "スペック：6GB,128GB\n動作等がサクサクではない．値段もまあまあでコスパがいい",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1286d04d-354f-4382-8fd3-5836c7a50151",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-12-14T16:02:37.812Z",
+        "lastEditedDateTime": "2024-12-14T16:55:12.426Z",
+        "cells": [
+          {
+            "id": "b64c1b31-549a-43c5-a00d-dc18ca2ebda2",
+            "columnId": "260e7dbd-8cf8-4433-ba8b-1ab5f4551a76",
+            "content": "Reno 7A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "84367daf-8c00-468e-9577-e89833355fb6",
+            "columnId": "493ad698-d9a8-4b94-be0f-8f341ac70e7d",
+            "content": "OPPO",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3e409237-69a4-4a7d-9f7c-ac9cf6237879",
+            "columnId": "de9fa1a5-f323-441e-b92c-5e20aeca841d",
+            "value": 35200,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8e936e60-2e16-406e-b981-7ce3d6d3cd80",
+            "columnId": "7bcdf517-9ce7-41f0-be27-054381201d57",
+            "dateTime": "2023-06-25T15:00:00.000Z",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c7e5bade-1d1f-4297-8c76-cb0ffa7d88d3",
+            "columnId": "be49397f-0a0f-460d-a2d5-2c939d100122",
+            "value": 5,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9d3f0764-9125-411e-a254-0c6514af72e8",
+            "columnId": "16ed480e-076a-47dc-bacd-74da04bdb6ae",
+            "tagIds": [
+              "e55c360c-a7c7-4ebe-9b5d-8864b905488c",
+              "587e59a3-8bf4-46f7-bdac-f7b7242508c1",
+              "51c52e8d-c075-4df2-b9e1-fa07fd3e146e"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          },
+          {
+            "id": "31c877c1-a775-47d2-81be-5ba26d4a55ea",
+            "columnId": "2283915b-9f8d-4419-83f8-bc981dc928cb",
+            "content": "スペック：6GB,128GB\n動作等の機能面に問題なし．値段もまあまあでコスパがいい",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c2b959d7-8746-4dab-89b8-b229b6bd6395",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-12-14T17:08:12.809Z",
+        "lastEditedDateTime": "2024-12-14T17:13:03.003Z",
+        "cells": [
+          {
+            "id": "615bc551-cec0-46c1-9e23-ddd1b4fadfb6",
+            "columnId": "260e7dbd-8cf8-4433-ba8b-1ab5f4551a76",
+            "content": "Nano Power Bank",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c0b996ac-bfb7-4295-badf-d3c49c10b12b",
+            "columnId": "493ad698-d9a8-4b94-be0f-8f341ac70e7d",
+            "content": "Anker",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c1d543b5-17a7-4610-a196-8804f7447de4",
+            "columnId": "de9fa1a5-f323-441e-b92c-5e20aeca841d",
+            "value": 2590,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c9cbe773-385b-4308-aebc-f29c82fc3611",
+            "columnId": "7bcdf517-9ce7-41f0-be27-054381201d57",
+            "dateTime": "2024-12-05T15:00:00.000Z",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "74213261-813d-4a91-9ba2-8f25fe8258ae",
+            "columnId": "be49397f-0a0f-460d-a2d5-2c939d100122",
+            "value": 4,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "885c938a-4dd3-458b-9107-dffa7dc3bbbf",
+            "columnId": "16ed480e-076a-47dc-bacd-74da04bdb6ae",
+            "tagIds": [
+              "e55c360c-a7c7-4ebe-9b5d-8864b905488c",
+              "375a40a8-9c06-4497-87c9-a76b0106f9cb"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          },
+          {
+            "id": "7f3ec3ec-ba8e-4b1a-b926-5daec4add010",
+            "columnId": "2283915b-9f8d-4419-83f8-bc981dc928cb",
+            "content": "主にSwitchとスマホの充電用を考えている",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7b319494-5aa1-4d33-8e03-f9cf22e69e19",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-12-14T17:10:10.209Z",
+        "lastEditedDateTime": "2024-12-14T17:10:10.209Z",
+        "cells": [
+          {
+            "id": "300b76c3-ed72-4096-a8f9-de12e6b01faf",
+            "columnId": "260e7dbd-8cf8-4433-ba8b-1ab5f4551a76",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "989c0991-b5c5-4f88-af88-663ea34afa5a",
+            "columnId": "493ad698-d9a8-4b94-be0f-8f341ac70e7d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "531056d6-88df-40b8-94a0-16f981b9f87b",
+            "columnId": "de9fa1a5-f323-441e-b92c-5e20aeca841d",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "77054a3e-1dc7-4d27-afac-1afb85dbf732",
+            "columnId": "7bcdf517-9ce7-41f0-be27-054381201d57",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "54b0a6ea-58af-4acf-8441-daf7235def19",
+            "columnId": "be49397f-0a0f-460d-a2d5-2c939d100122",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8c7dfca6-a15e-44f3-b004-62fa93c080a9",
+            "columnId": "16ed480e-076a-47dc-bacd-74da04bdb6ae",
+            "tagIds": [],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          },
+          {
+            "id": "cc6849c9-fc28-44b8-8498-25deee2701c8",
+            "columnId": "2283915b-9f8d-4419-83f8-bc981dc928cb",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1739cf8f-3670-4c00-8761-c27cae2da8f4",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-12-14T17:10:10.345Z",
+        "lastEditedDateTime": "2024-12-14T17:10:10.345Z",
+        "cells": [
+          {
+            "id": "873700be-89c8-4305-9fe8-f1e563c7e5c9",
+            "columnId": "260e7dbd-8cf8-4433-ba8b-1ab5f4551a76",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a3a5d734-e6d6-4850-84f4-b532a64a28bb",
+            "columnId": "493ad698-d9a8-4b94-be0f-8f341ac70e7d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d28bdad6-2f82-42f5-8556-e0817f3b143f",
+            "columnId": "de9fa1a5-f323-441e-b92c-5e20aeca841d",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e58e7290-a82a-40a7-a596-5a1ea0f2bd30",
+            "columnId": "7bcdf517-9ce7-41f0-be27-054381201d57",
+            "dateTime": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ffb938a4-c1e7-43b3-9c1b-0781e743c48a",
+            "columnId": "be49397f-0a0f-460d-a2d5-2c939d100122",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cd556b2a-c9e8-4efe-8fba-ee3cef12d46f",
+            "columnId": "16ed480e-076a-47dc-bacd-74da04bdb6ae",
+            "tagIds": [],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          },
+          {
+            "id": "e737288b-a581-48c1-b941-7b6ff54d926a",
+            "columnId": "2283915b-9f8d-4419-83f8-bc981dc928cb",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}
